@@ -44,4 +44,5 @@ Feel free to fork and reuse. Attribution appreciated but not required.
 
 ---
 
-Maintained by: **@ChemicalTaste**
+Maintained by: **[@Rare-Spawn](https://github.com/Rare-Spawn)**
+
